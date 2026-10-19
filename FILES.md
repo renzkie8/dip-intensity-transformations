@@ -1,0 +1,22 @@
+# Available files
+
+- `.gitignore`
+- `1.jpg`
+- `1_output.jpg`
+- `DATA.md`
+- `PS2_Colico_BSCS2a.ipynb`
+- `Problem 6_bit_planes_0.jpg`
+- `Problem 6_bit_planes_1.jpg`
+- `Problem 6_bit_planes_2.jpg`
+- `Problem 6_bit_planes_3.jpg`
+- `Problem 6_bit_planes_4.jpg`
+- `Problem 6_bit_planes_5.jpg`
+- `Problem 6_bit_planes_6.jpg`
+- `Problem 6_bit_planes_7.jpg`
+- `Problem5.1output.jpg`
+- `Problem5.2output.jpg`
+- `README.md`
+- `VALIDATION.md`
+- `problem2output.jpg`
+- `problem3_out.jpg`
+- `problem4_out.jpg`
